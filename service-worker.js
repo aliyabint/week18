@@ -3,11 +3,11 @@ var cacheFiles = [
     'index.html',
     'product.js',
     'petstore.webmanifest',
-    'image/catfood.jpeg',
-    'image/catfood2.jpeg',
-    'image/catfood2.jpeg',
-    'image/icon-store-512.png',
-    'image/kittyfood.jpeg'
+    'images/catfood.jpeg',
+    'images/catfood2.png',
+    'images/catfood2.png',
+    'images/icon-store-512.png',
+    'images/kittyfood.png'
 
 ];
  
