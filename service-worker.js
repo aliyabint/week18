@@ -1,12 +1,20 @@
-var cacheName = 'petstore-v1';
+var cacheName = 'yourguide-v1';
 var cacheFiles = [
-    'index.html',
+    'index2.html',
     'products.js',
-    'petstore.webmanifest',
-    'images/catfood.jpeg',
-    'images/catfood2.png',
-    'images/icon-store-512.png',
-    'images/kittyfood.png'
+    'yourguide.webmanifest',
+    'images/art.png',
+    'images/basketball.png',
+    'images/appicon.png',
+    'images/coding.png',
+    'images/dance.png',
+    'images/design.png',
+    'images/drama.png',
+    'images/header2.png',
+    'images/music.png',
+    'images/photo.png',
+    'images/poetry.png',
+    'images/sculpture.png',
 
 ];
 
